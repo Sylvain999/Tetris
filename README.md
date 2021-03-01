@@ -18,6 +18,8 @@
   pour rendre le code produit le plus optimisé et lisible possible.
 </p>
 
+<b>Collaborateur : </b> <a href="https://github.com/Matthieu-chartrain">Matthieu Chartrain</a>
+
 <p>
   <b>Langages et Outils utilisés :</b>
   Java (JavaFX)
